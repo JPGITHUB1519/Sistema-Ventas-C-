@@ -1,0 +1,28 @@
+C:\Documents and Settings\Administrador\Escritorio\Sistema de Ventas en C# y SQL SERVER\SisVentas\SisVentas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Sistema de Ventas en C# y SQL SERVER\SisVentas\SisVentas\obj\x86\Debug\SisVentas.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Sistema de Ventas en C# y SQL SERVER\SisVentas\SisVentas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\Sistema de Ventas en C# y SQL SERVER\SisVentas\SisVentas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\Sistema de Ventas en C# y SQL SERVER\SisVentas\SisVentas\bin\Debug\SisVentas.exe
+C:\Documents and Settings\Administrador\Escritorio\Sistema de Ventas en C# y SQL SERVER\SisVentas\SisVentas\bin\Debug\CapaPresentación.dll
+C:\Documents and Settings\Administrador\Escritorio\Sistema de Ventas en C# y SQL SERVER\SisVentas\SisVentas\bin\Debug\CapaNegocio.dll
+C:\Documents and Settings\Administrador\Escritorio\Sistema de Ventas en C# y SQL SERVER\SisVentas\SisVentas\bin\Debug\CapaDatos.dll
+C:\Documents and Settings\Administrador\Escritorio\Sistema de Ventas en C# y SQL SERVER\SisVentas\SisVentas\bin\Debug\CapaPresentación.pdb
+C:\Documents and Settings\Administrador\Escritorio\Sistema de Ventas en C# y SQL SERVER\SisVentas\SisVentas\bin\Debug\CapaNegocio.pdb
+C:\Documents and Settings\Administrador\Escritorio\Sistema de Ventas en C# y SQL SERVER\SisVentas\SisVentas\bin\Debug\CapaDatos.pdb
+C:\Documents and Settings\Administrador\Escritorio\Sistema de Ventas en C# y SQL SERVER\SisVentas\SisVentas\obj\x86\Debug\SisVentas.exe
+C:\Documents and Settings\Administrador\Escritorio\Sistema de Ventas en C# y SQL SERVER\SisVentas\SisVentas\obj\x86\Debug\SisVentas.pdb
+C:\Documents and Settings\Administrador\Escritorio\Sistema de Ventas en C# y SQL SERVER\SisVentas\SisVentas\bin\Debug\SisVentas.pdb
+C:\Documents and Settings\Administrador\Escritorio\Sistema de Ventas en C# y SQL SERVER Pr\SisVentas\SisVentas\obj\x86\Debug\SisVentas.exe
+C:\Documents and Settings\Administrador\Escritorio\Sistema de Ventas en C# y SQL SERVER Pr\SisVentas\SisVentas\obj\x86\Debug\SisVentas.pdb
+C:\Documents and Settings\Administrador\Escritorio\Sistema de Ventas en C# y SQL SERVER Pr\SisVentas\SisVentas\bin\Debug\SisVentas.exe
+C:\Documents and Settings\Administrador\Escritorio\Sistema de Ventas en C# y SQL SERVER Pr\SisVentas\SisVentas\bin\Debug\SisVentas.pdb
+C:\Documents and Settings\Administrador\Escritorio\Sistema de Ventas en C# y SQL SERVER Pr\SisVentas\SisVentas\bin\Debug\CapaPresentación.dll
+C:\Documents and Settings\Administrador\Escritorio\Sistema de Ventas en C# y SQL SERVER Pr\SisVentas\SisVentas\bin\Debug\CapaNegocio.dll
+C:\Documents and Settings\Administrador\Escritorio\Sistema de Ventas en C# y SQL SERVER Pr\SisVentas\SisVentas\bin\Debug\CapaDatos.dll
+C:\Documents and Settings\Administrador\Escritorio\Sistema de Ventas en C# y SQL SERVER Pr\SisVentas\SisVentas\bin\Debug\CapaPresentación.pdb
+C:\Documents and Settings\Administrador\Escritorio\Sistema de Ventas en C# y SQL SERVER Pr\SisVentas\SisVentas\bin\Debug\CapaNegocio.pdb
+C:\Documents and Settings\Administrador\Escritorio\Sistema de Ventas en C# y SQL SERVER Pr\SisVentas\SisVentas\bin\Debug\CapaDatos.pdb
+C:\Documents and Settings\Administrador\Escritorio\Sistema de Ventas en C# y SQL SERVER Pr\SisVentas\SisVentas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Sistema de Ventas en C# y SQL SERVER Pr\SisVentas\SisVentas\obj\x86\Debug\SisVentas.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Sistema de Ventas en C# y SQL SERVER Pr\SisVentas\SisVentas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\Sistema de Ventas en C# y SQL SERVER Pr\SisVentas\SisVentas\obj\x86\Debug\GenerateResource.write.1.tlog

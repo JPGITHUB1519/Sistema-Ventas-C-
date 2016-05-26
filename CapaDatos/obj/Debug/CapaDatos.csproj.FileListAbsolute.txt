@@ -1,0 +1,12 @@
+C:\Documents and Settings\Administrador\Escritorio\Sistema de Ventas en C# y SQL SERVER\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Documents and Settings\Administrador\Escritorio\Sistema de Ventas en C# y SQL SERVER\SisVentas\CapaDatos\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Sistema de Ventas en C# y SQL SERVER\SisVentas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Documents and Settings\Administrador\Escritorio\Sistema de Ventas en C# y SQL SERVER\SisVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Documents and Settings\Administrador\Escritorio\Sistema de Ventas en C# y SQL SERVER\SisVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Documents and Settings\Administrador\Escritorio\Sistema de Ventas en C# y SQL SERVER\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Documents and Settings\Administrador\Escritorio\Sistema de Ventas en C# y SQL SERVER Pr\SisVentas\CapaDatos\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Sistema de Ventas en C# y SQL SERVER Pr\SisVentas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Documents and Settings\Administrador\Escritorio\Sistema de Ventas en C# y SQL SERVER Pr\SisVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Documents and Settings\Administrador\Escritorio\Sistema de Ventas en C# y SQL SERVER Pr\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Documents and Settings\Administrador\Escritorio\Sistema de Ventas en C# y SQL SERVER Pr\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Documents and Settings\Administrador\Escritorio\Sistema de Ventas en C# y SQL SERVER Pr\SisVentas\CapaDatos\bin\Debug\CapaDatos.pdb
