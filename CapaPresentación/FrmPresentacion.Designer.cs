@@ -97,8 +97,8 @@
             // 
             // label1
             // 
-            this.label1.Size = new System.Drawing.Size(166, 29);
-            this.label1.Text = "Presentación";
+            this.label1.Size = new System.Drawing.Size(194, 29);
+            this.label1.Text = "Presentaciones";
             // 
             // txtDescripcion
             // 

@@ -19,12 +19,6 @@ namespace CapaPresentación
         }
 
 
-        public virtual void nuevo(){}
-        public virtual void guardar(){}
-        public virtual void editar(){}
-        public virtual void cancelar(){}
-        public virtual void buscarnombre() {}
-
         private void FrmManteBase_Load(object sender, EventArgs e)
         {
            
@@ -33,22 +27,22 @@ namespace CapaPresentación
 
         private void btnNuevo_Click(object sender, EventArgs e)
         {
-            nuevo();
+            
         }
 
         private void btnGuardar_Click(object sender, EventArgs e)
         {
-            guardar();
+            
         }
 
         private void btnEditar_Click(object sender, EventArgs e)
         {
-            editar();
+            
         }
 
         private void btnCancelar_Click(object sender, EventArgs e)
         {
-            cancelar();
+           
         }
 
         private void btnBuscar_Click(object sender, EventArgs e)
